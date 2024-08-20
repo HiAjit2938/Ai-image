@@ -1,0 +1,300 @@
+ Chapter - 1
+ Introduction To  Computer System
+
+
+Introduction to Computer
+
+ Computer is an advanced electronic device that takes raw data as input from the user and processes these data under the control of set of instructions (called program) and gives the result (output) and saves output for the future use . 
+
+A computer is a combination of hardware and software resources which integrate together and provides various functionalities to the user . Hardware are the physical components of a computer like the processor, memory devices, monitor, keyboard etc . while software is the set of programs or instructions that are required by the hardware resources to perform various operations as per the requirement of users .
+
+Introduction to Computer
+
+
+EVOLUTION OF COMPUTING DEVICE 
+First Generation ( 1940 - 56 ) : 
+
+The first generation computers used vacuum tubes & machine language was used for giving the instructions . These computers were large in size & their programming was difficult task . The electricity consumption was very high . Some computers of this generation are ENIAC, EDVAC, EDSAC & UNIVAC - 1 .
+
+ In this generation, mainly batch processing operating system was used . Punch cards, paper tape, and magnetic tape was used as input and output devices . The computers in this generation used machine code as the programming language .
+
+Second Generation ( 1956 - 63 ) : 
+
+In 2 nd generation computers, vacuum tubes were replaced by transistors . They required only 1 / 10 of power required by tubes . This generation computers generated less heat & were reliable . The first operating system developed in this generation . IBM 1620 , IBM 7094 , CDC 1604 are the examples of this generations computers . 
+
+In 2 nd generation, magnetic cores were used as the primary memory and magnetic tape and magnetic disks as secondary storage devices .
+
+ In this generation, assembly language and high - level programming languages like FORTRAN, COBOL were used . The computers used batch processing and multiprogramming operating system .
+
+Third Generation ( 1964 - 71 ) : 
+
+The 3 rd generation computers replaced transistors with Integrated circuit known as chip . From Small scale integrated circuits which had 10 transistors per chip, technology developed to MSI circuits with 100 transistors per chip . These computers were smaller, faster & more reliable . High level languages invented in this generation . 
+
+The IC was invented by Jack Kilby . This development made computers smaller in size, reliable, and efficient . In this generation remote processing, time - sharing, multiprogramming operating system were used . High - level languages (FORTRAN - II TO IV, COBOL, PASCAL PL/ 1 , BASIC, ALGOL - 68 etc . ) were used during this generation . IBM - 360 series, Honeywell - 6000 are some examples of computers in 3 rd generation . .
+
+Fourth Generation ( 1972 - 1980 ) :
+
+ LSI & VLSI were used in this generation . As a result microprocessors came into existence . The computers using this technology known to be Micro Computer . High capacity hard disk were invented . There is great development in data communication . 
+
+Fourth generation computers became more powerful, compact, reliable, and affordable . As a result, it gave rise to Personal Computer (PC) revolution . In this generation, time sharing, real time networks, distributed operating system were used . All the high - level languages like C, C++, DBASE etc . , were used in this generation .
+
+Fifth Generation ( 1980 - Present & Beyond) :
+
+Fifth generation computing devices, based on artificial intelligence, are still in development, though there are some applications, such as voice recognition, that are being used today . The use of parallel processing and superconductors is helping to make artificial intelligence a reality . Quantum computation and molecular and nanotechnology will radically change the face of computers in years to come .
+
+Some computer types of this generation are  − Desktop Laptop Note Book Ultra Book
+
+COMPONENT OF A COMPUTER SYSTEM
+
+
+In the above diagram, both control (control unit or CU) and arithmetic & logic unit (ALU) combinely called as Central Processing Unit (CPU) . Let's describe about all the parts as included in the above diagram one by one . 
+The Processor Unit (CPU) 
+
+It is the brain of the computer system . All major calculation and comparisons are made inside the CPU and it is also responsible for activation and controlling the operation of other unit . 
+
+This unit consists of two major components, that are arithmetic logic unit (ALU) and control unit (CU) .
+
+Arithmetic Logic Unit (ALU) 
+
+Arithmetic logic unit performs all arithmetic operations such as addition, subtraction, multiplication and division . It also uses logic operation for comparison like comparison or decision making (>, <, <=, >=, = etc . ) .
+Control Unit (CU) 
+
+The control unit of a CPU controls the entire operation of the computer . It also controls all devices such as memory, input/output devices connected to the CPU . 
+
+CU fetches instructions from memory, decodes the instruction, interprets the instruction to know what the task are to be performed and sends suitable control signals to the other components to perform for the necessary steps to execute the instruction .
+
+Input/Output Unit
+
+ The input/output unit consists of devices used to transmit information between the external world and computer memory . 
+
+The information fed through the input unit is stored in computer's memory for processing and the final result stored in memory can be recorded or display on the output medium . 
+Memory unit 
+
+It is an essential component of a digital computer . It is where all data intermediate and find results are stored . The data read from the main storage or an input unit are transferred to the computer's memory where they are available for processing . This memory unit is used to hold the instructions to be executed and data to be processes .
+
+Primary Memory :
+
+ Primary memory has direct link with input unit and output unit . It stores the input data, intermediate calculation , result . 
+Secondary Memory :
+
+ The primary storage is not able to store data permanently for future use . So some other types of storage technology is required to store the data permanently for long time, it is called secondary or auxiliary memory .
+
+Input & Output Device 
+Input Device :
+
+ Input devices are those devices which help to enter data into computer system . E . g . Keyboad , Mouse, Touchscreen, Barcode Reader, Scanner, MICR, OMR etc . 
+
+Bar Code Reader 
+
+MICR used in Bank 
+
+OMR
+
+KEYBOARD : 
+
+This is the most common input device which uses an arrangement of buttons or keys . In a keyboard each press of a key typically corresponds to a single written symbol . However some symbols require pressing and holding several keys simultaneously or in sequence . While most keyboard keys produce letters, numbers or characters, other keys or simultaneous key presses can produce actions or computer commands .
+
+Mouse : 
+
+A computer mouse (plural mice or mouses ) is a hand - held pointing device that detects two - dimensional motion relative to a surface . This motion is typically translated into the motion of a pointer on a display, which allows a smooth control of the graphical user interface of a computer .
+
+Scanner : 
+
+Scanner is a device that optically scans images , printed text, handwriting, or an object , and converts it to digital image . 
+JOYSTICK : 
+
+A joystick is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling . Many people use joysticks on computer games involving flight such as flight simulator . 
+
+Joysticks are often used to control video games, and usually have one or more push - buttons whose state can also be read by the computer
+
+Output Device :
+
+ Output  devices are those devices which help to display the  processed information.  Eg . Monitor, Printer, Plotter,  Projector  etc.
+
+PRINTER: 
+
+ Printer produces result on the paper. 
+
+ T h e r e    are various types of printers available in the market :
+ DOT MATRIX PRINTER: 
+
+ Uses ribbon and hammer technology. 
+
+ Its quality is not very good. It prints by making the object using  small dots.
+
+INKJET PRINTER: 
+
+It creates a digital image by propelling droplets of ink onto the paper. 
+LASERJET PRINTER : 
+
+They uses laser technology to print documents . It produce high quality printing at very high speed .
+
+MONITOR
+
+ ➢ It is the primary output device where we see the output . It looks like TV . 
+
+➢ It is also known as VDU(Visual Display Unit) . 
+
+➢ Its display may be in the form of CRT LED, LCD . 
+
+1. CRT(CATHODE RAY TUBE) 
+
+2. LCD(LIQUID CRYSTAL DISPLAY) 
+
+3. LED(LIGHT EMITTING DIODE)
+
+MEMORY UNITS: 
+
+Memory is used to store the data for later  reference. The  smallest unit is bit, which mean either 0 or 1.  
+
+❑ 1 bit = 0 or 1  
+
+❑ 1 Byte = 8 bits  
+
+❑ 1 Nibble = 4 bits 
+
+❑ 1 Kilo Byte = 1024 Byte= 2 10 Byte 
+
+❑ 1 Mega Byte = 1024 KB= 2 10 KB 
+
+❑ 1 Giga Byte = 1024 MB= 2 10 MB  
+
+❑ 1  Tera Byte = 1024 GB= 2 10 GB 
+
+❑ 1  Peta Byte =1024 TB= 2 10 TB 
+
+❑ 1  Exa Byte =1024 PB= 2 10 PB  
+
+❑ 1  Zetta Byte = 1024 EB= 2 10 EB  
+
+❑ 1  Yotta Byte = 1024 ZB= 2 10 ZB
+
+PRIMARY MEMORY
+
+
+SECONDARY MEMORY 
+
+The primary storage is not able to store data permanently for future use . So some other types of storage technology is required to store the data permanently for long time, it is called secondary or auxiliary storage . 
+
+EXAMPLES OF SECONDARY STORAGE
+
+DATA DELETION AND ITS RECOVERY ,  SECURITY CONCERN 
+
+You can conveniently delete personal data stored in computer system, survey responses, tickets, and contacts, no matter where the data originated . 
+
+Examples of reasons for deleting the data are :
+
+ ❑ Freeing the disk space 
+
+❑ Removing duplicate or unnecessary data to avoid confusion 
+
+❑ Making sensitive information unavailable to others 
+
+❑ Removing an operating system or blanking a hard drive
+
+DATA RECOVERY
+
+ ❑ in computing, data recovery is a process of salvaging (retrieving) inaccessible, lost, corrupted, damaged or formatted data from secondary storage and removable media or files, when the data stored in them cannot be accessed in a normal way . 
+
+❑ The most common data recovery scenario involves an operating system failure, malfunction of a storage device, logical failure of storage devices, accidental damage or deletion, etc . (typically, on a single - drive, single - partition, single - OS system), in which case the ultimate goal is simply to copy all important files from the damaged media to another new drive .
+
+COMPUTER SECURITY
+
+ ❑ It is also known as IT security, is the protection of information systems from theft or damage to the hardware, the software, and to the information on them, as well as from disruption or misdirection of the services they provide . 
+
+❑ It includes controlling physical access to the hardware, as well as protecting against harm that may come via network access, data and code injection, and due to malpractice by operators, whether intentional, accidental, or due to them being tricked into deviating from secure procedures .
+
+CONCERNS OF COMPUTER SECURITY 
+
+Computer Security is concerned with four main areas: 
+
+1.  Confidentiality: - Only authorized users can access the data resources  and information. 
+
+2.  Integrity: - Only authorized users should be able to modify the data  when needed. 
+
+3.  Availability: - Data should be available to users when needed. 
+
+4.  Authentication: - are you really communicating with whom you think  you are communicating with
+
+SOFTWARE AND ITS TYPE 
+
+SOFTWARE : 
+
+Software , simply are the computer programs . The instructions given to the computer in the form of a program is called Software . Software is the set of programs, which are used for different purposes . All the programs used in computer to perform specific task is called Software .
+
+TYPES OF SOFTWARE
+
+
+1. SYSTEM SOFTWARE 
+
+The system software is a collection of programs designed to operate, control, and extend the processing capabilities of the computer itself . 
+
+These software products comprise of programs written in low - level languages, which interact with the hardware at a very basic level . System software serves as the interface between the hardware and the end users . 
+
+Some examples of system software are Operating System, Compilers, Interpreter, Assemblers, etc .
+
+OPERATING SYSTEM
+
+
+OPERATING SYSTEM ARCHITECTURE  
+
+FUNCTIONS OF OPERATING SYSTEM  
+
+TYPES OF OPERATING SYSTEM
+
+
+SINGLE USER OS : 
+
+As the name implies, this operating system is designed to manage the computer so that one user can effectively do one thing at a time . 
+MULTI USER OS :
+
+ A multi - user operating system (OS) is a computer system that allows multiple users that are on different computers to access a single system's OS resources simultaneously . 
+MULTI TASKING OS :
+
+ Multitasking, is an operating system, that allows a user to perform more than one computer task (such as the multiple operation of an application program) at a time . The operating system is able to keep track of where you are in these tasks and go from one to the other without losing information .
+
+MULTI PROCESSING OS :
+
+ Multiprocessing is sometimes used to refer to the execution of multiple concurrent processes in a system . A program in execution is called process . 
+EMBEDDED OS : 
+
+Embedded Operating System is an Embedded System’s Operating System . Embedded Systems are a specially designed computer system that essentially contains software and hardware for performing specific tasks . Mobile Phones, Laptops, Cameras, Washing Machines, ATMS, and Hair Straightener etc are examples of embedded operating sytem .
+
+REAL TIME OS :
+
+ It is used to control machinery, industrial systems, scientific instruments ,tasks where time deadlines may be forced to execute a task .
+
+LANGUAGE PROCESSOR 
+
+We generally write a computer program using a high - level language . A high - level language is one that is understandable by us, humans . This is called source code .
+
+ However, a computer does not understand high - level language . It only understands the program written in 0 's and 1 's in binary, called the machine code . 
+
+To convert source code into machine code, we use either a compiler or an interpreter . Compiler, Interpreter are known as language processor . Both compilers and interpreters are used to convert a program written in a high - level language into machine code understood by computers . However, there are differences between how an interpreter and a compiler works .
+
+DIFFERENCE BETWEEN COMPILER AND INTERPRETER
+
+
+APPLICATION SOFTWARE 
+
+Application software products are designed to satisfy a particular need of a particular environment . All software prepared in the computer lab may come under the category of Application software . 
+
+Examples of Application software are the following − 
+
+❑ Payroll Software 
+
+❑ Student Record Software 
+
+❑ Inventory Management Software 
+
+❑ Income Tax Software 
+
+❑ Railways Reservation Software 
+
+❑ Microsoft Office Suite Software
+
+ ❑ Microsoft Word, Microsoft Excel
+
+UTILITY SOFTWARE
+
+ Utility software is designed to aid in analyzing, optimizing, configuring and maintaining a computer system . It supports the computer infrastructure . This software focuses on how an OS functions and then accordingly it decides its trajectory to smoothen the functioning of the system . Software’s like antiviruses, disk cleanup & management tools, compression tools, defragmenters, etc are all utility tools . Some examples of utility tools are : K 7 Antivirus, WinRAR, WinZip etc . 
